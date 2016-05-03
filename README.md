@@ -1,2 +1,2 @@
 # SNIMS
-Sales network intant message System
+Sales network intant message system
