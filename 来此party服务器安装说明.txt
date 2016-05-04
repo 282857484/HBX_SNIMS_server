@@ -1,0 +1,19 @@
+配置文件放置到正确的文件夹下
+数据库导入相应的文件夹下
+配置mysql数据库编码与相应配置utf-8
+配置服务器
+配置图片服务器
+使用需在jre1.5上运行,不可使用其他版本
+libs添加到java运行环境中
+c3p0与log4j放到D盘的server文件夹下
+
+配置installmyserver
+运行installmyserver
+修改prunmgr名字为服务项名字
+修改开机启动依赖项-mysql
+配置服务运行于操作系统的配置
+(windows-64)
+
+prunmgr.exe重命名为 (服务名).exe
+配置uninstall
+运行uninstall
